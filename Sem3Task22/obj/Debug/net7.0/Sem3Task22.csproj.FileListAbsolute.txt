@@ -1,0 +1,15 @@
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem3Task22\bin\Debug\net7.0\Sem3Task22.exe
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem3Task22\bin\Debug\net7.0\Sem3Task22.deps.json
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem3Task22\bin\Debug\net7.0\Sem3Task22.runtimeconfig.json
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem3Task22\bin\Debug\net7.0\Sem3Task22.dll
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem3Task22\bin\Debug\net7.0\Sem3Task22.pdb
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem3Task22\obj\Debug\net7.0\Sem3Task22.csproj.AssemblyReference.cache
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem3Task22\obj\Debug\net7.0\Sem3Task22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem3Task22\obj\Debug\net7.0\Sem3Task22.AssemblyInfoInputs.cache
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem3Task22\obj\Debug\net7.0\Sem3Task22.AssemblyInfo.cs
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem3Task22\obj\Debug\net7.0\Sem3Task22.csproj.CoreCompileInputs.cache
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem3Task22\obj\Debug\net7.0\Sem3Task22.dll
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem3Task22\obj\Debug\net7.0\refint\Sem3Task22.dll
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem3Task22\obj\Debug\net7.0\Sem3Task22.pdb
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem3Task22\obj\Debug\net7.0\Sem3Task22.genruntimeconfig.cache
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem3Task22\obj\Debug\net7.0\ref\Sem3Task22.dll

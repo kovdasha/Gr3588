@@ -1,0 +1,15 @@
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem3Task19\bin\Debug\net7.0\Sem3Task19.exe
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem3Task19\bin\Debug\net7.0\Sem3Task19.deps.json
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem3Task19\bin\Debug\net7.0\Sem3Task19.runtimeconfig.json
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem3Task19\bin\Debug\net7.0\Sem3Task19.dll
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem3Task19\bin\Debug\net7.0\Sem3Task19.pdb
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem3Task19\obj\Debug\net7.0\Sem3Task19.csproj.AssemblyReference.cache
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem3Task19\obj\Debug\net7.0\Sem3Task19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem3Task19\obj\Debug\net7.0\Sem3Task19.AssemblyInfoInputs.cache
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem3Task19\obj\Debug\net7.0\Sem3Task19.AssemblyInfo.cs
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem3Task19\obj\Debug\net7.0\Sem3Task19.csproj.CoreCompileInputs.cache
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem3Task19\obj\Debug\net7.0\Sem3Task19.dll
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem3Task19\obj\Debug\net7.0\refint\Sem3Task19.dll
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem3Task19\obj\Debug\net7.0\Sem3Task19.pdb
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem3Task19\obj\Debug\net7.0\Sem3Task19.genruntimeconfig.cache
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem3Task19\obj\Debug\net7.0\ref\Sem3Task19.dll
