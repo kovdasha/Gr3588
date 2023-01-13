@@ -1,0 +1,15 @@
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem5Task32\bin\Debug\net7.0\Sem5Task32.exe
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem5Task32\bin\Debug\net7.0\Sem5Task32.deps.json
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem5Task32\bin\Debug\net7.0\Sem5Task32.runtimeconfig.json
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem5Task32\bin\Debug\net7.0\Sem5Task32.dll
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem5Task32\bin\Debug\net7.0\Sem5Task32.pdb
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem5Task32\obj\Debug\net7.0\Sem5Task32.csproj.AssemblyReference.cache
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem5Task32\obj\Debug\net7.0\Sem5Task32.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem5Task32\obj\Debug\net7.0\Sem5Task32.AssemblyInfoInputs.cache
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem5Task32\obj\Debug\net7.0\Sem5Task32.AssemblyInfo.cs
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem5Task32\obj\Debug\net7.0\Sem5Task32.csproj.CoreCompileInputs.cache
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem5Task32\obj\Debug\net7.0\Sem5Task32.dll
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem5Task32\obj\Debug\net7.0\refint\Sem5Task32.dll
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem5Task32\obj\Debug\net7.0\Sem5Task32.pdb
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem5Task32\obj\Debug\net7.0\Sem5Task32.genruntimeconfig.cache
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem5Task32\obj\Debug\net7.0\ref\Sem5Task32.dll

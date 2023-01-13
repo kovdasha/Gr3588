@@ -24,7 +24,7 @@ int[] GenArray(int len)
     return arr;
 }
 
-//Метод ввыода массива
+//Метод вывода массива
 void PrintArray(int[] arr)
 {
     Console.Write("[");
