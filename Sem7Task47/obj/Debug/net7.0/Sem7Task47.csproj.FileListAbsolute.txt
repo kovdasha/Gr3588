@@ -1,0 +1,15 @@
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem7Task47\obj\Debug\net7.0\Sem7Task47.csproj.AssemblyReference.cache
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem7Task47\obj\Debug\net7.0\Sem7Task47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem7Task47\obj\Debug\net7.0\Sem7Task47.AssemblyInfoInputs.cache
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem7Task47\obj\Debug\net7.0\Sem7Task47.AssemblyInfo.cs
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem7Task47\obj\Debug\net7.0\Sem7Task47.csproj.CoreCompileInputs.cache
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem7Task47\bin\Debug\net7.0\Sem7Task47.exe
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem7Task47\bin\Debug\net7.0\Sem7Task47.deps.json
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem7Task47\bin\Debug\net7.0\Sem7Task47.runtimeconfig.json
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem7Task47\bin\Debug\net7.0\Sem7Task47.dll
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem7Task47\bin\Debug\net7.0\Sem7Task47.pdb
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem7Task47\obj\Debug\net7.0\Sem7Task47.dll
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem7Task47\obj\Debug\net7.0\refint\Sem7Task47.dll
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem7Task47\obj\Debug\net7.0\Sem7Task47.pdb
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem7Task47\obj\Debug\net7.0\Sem7Task47.genruntimeconfig.cache
+C:\Users\Dasha\Desktop\GeekGIT\Gr3588\Sem7Task47\obj\Debug\net7.0\ref\Sem7Task47.dll
